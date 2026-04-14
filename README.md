@@ -12,13 +12,19 @@
  5. Applied Data Analysis Problems
  6. Data Analysis Final Project
 
-This specialization focuses on data analysis methods using Python libraries for machine learning, as well as the development and evaluation of the performance of various machine learning methods. The theoretical component features an exceptionally in-depth exploration of the mathematical principles underlying all data analysis and machine learning methods. The practical component includes lab assignments for each course and a final project covering the entire specialization.
- - Операции в векторных пространствах
- - Операции с матрицами
- - Линейная алгебра
- - Функции многих переменных
- - Теория вероятностей
- - 
+This specialization focuses on data analysis methods using Python libraries for machine learning, as well as the development and evaluation of the performance of various machine learning methods. The theoretical component features an exceptionally in-depth exploration of the mathematical principles underlying all data analysis and machine learning methods. The practical component includes lab assignments for each course and a final project covering the entire specialization. Key topics covered in the specialization:
+ - Operations in vector spaces
+ - Matrix operations
+ - Linear algebra
+ - Functions of several variables
+ - Probability theory
+ - Linear machine learning models
+ - Bayes' theorem in machine learning
+ - Matrix decompositions
+ - Confidence intervals
+ - Hypothesis testing
+ - Parametric and nonparametric tests
+ - Multiple hypothesis testing and association analysis
 
 **Results / Key Findings:** This program stands out from all others of its kind due to its fundamental approach to the mathematical foundation of all machine learning principles—from vector spaces, gradients, and matrices to the principles underlying neural networks. This specialization alone radically changed my commonplace views on AI and allowed me to see the convergence of Fourier series behind the external "wonders".
 
